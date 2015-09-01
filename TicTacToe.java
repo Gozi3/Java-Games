@@ -1,6 +1,8 @@
-/*
-	* This is a program that create the game "Tic-Tac-Toe".
-	* @ author: Godstime Osarobo
+/**
+	* Project: Tic Tac Toe / X's and O's Game
+	* @author Godstime Osarobo
+	* Date:  August, 2015
+	* Program Name:  TicTacToe.java
 */
 /* example of what it should look like
 		 X | O | O
