@@ -9,7 +9,7 @@ The maximum number of folders allowed is 10.
 The maximum number of files in a folder allowed is 100.
 
 #### Example of Display:
-<pre>         Display Folders
+<pre>               Display Folders
                      # # # # # # #
                      #  Folders  #
         # # # # # # #-# # # # # #-# # # # # # #
@@ -28,7 +28,7 @@ The maximum number of files in a folder allowed is 100.
         #                           #         #
         # # # # # # # # # # # # # # # # # # # # 
         
-        Display Files
+                       Display Files
                         # # # # # #
                         #  Files  #
         # # # # # # # # # # # # # # # # # # # # # # # #
