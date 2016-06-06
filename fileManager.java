@@ -2,7 +2,7 @@
 	* Project: File Manager
 	  @author Godstime Osarobo
 	* Date:  February, 2016
-	* Program Name:  fileManager.java
+	* Program Name:  FileManager.java
 */
 
 /*	example of what it should look like
@@ -66,8 +66,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-@SuppressWarnings("unused")
-public class fileManager{
+public class FileManager{
 	//Global Variables needed to make the File Manager
 		//The 1st[] stores which Folder index the Name/Extension/Type is associated with
 		//The 2nd[] stores which File index the Name/Extension/Type is associated with
