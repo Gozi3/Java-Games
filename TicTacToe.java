@@ -4,6 +4,7 @@
 	* Date:  August, 2015
 	* Program Name:  TicTacToe.java
 */
+
 /* example of what it should look like
 		 X | O | O
 		-----------
@@ -11,8 +12,13 @@
 		-----------
 		 O | O | X
 */
+import java.io.*;
 import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
 
+@SuppressWarnings("unused")
 public class TicTacToe
 {
 	/**
@@ -20,6 +26,7 @@ public class TicTacToe
 	 @param String[] args
 	 @return void
 	 */
+	@SuppressWarnings({ "resource" })
 	public static void main (String args[]){
 		String [][] gameGrid = new String [3][3];
 		Scanner scan = new Scanner(System.in);
@@ -269,20 +276,20 @@ public class TicTacToe
 		}
 	}
 		//Game end
-		/*
+		/**
 			*blankGrid: creates a blank Tic-Tac-Toe array template.
 			@param String[][]grid
 			@return void
 		*/
 	public static void blankGrid(String[][] grid) {
 		sleep(500);
-		for(int row = 0;row<grid.length;row++) {
-			for(int column = 0;column<grid[row].length;column++) {
-				grid[row][column] = " ";
+		for(int i = 0;i<grid.length;i++){
+			for(int j=0;j<grid[i].length;j++){
+				grid[i][j] = " ";
 			}
 		}
 	}
-	/*
+	/**
 		*displayGrid: Prints the current game grid at the end of the turn.
 		@param String[][] grid
 		@return void
@@ -319,7 +326,7 @@ public class TicTacToe
 			}
 		}
 	}
-	/*
+	/**
 		*chooseGrid: Prints the game grid with number locations for the Player to pick.
 		@param String[]][] grid
 		@return void
@@ -360,7 +367,7 @@ public class TicTacToe
 		}
 	}
 
-	/*
+	/**
 		*gameInstructions: Prints the game instructions if the Player inputs help
 		@param
 		@return void
@@ -384,7 +391,7 @@ public class TicTacToe
 		typedString(30,"Have fun! :D\n");
 	}
 
-	/*
+	/**
 		*sleep: makes the console wait depending on the amount of miliseconds chosen
 		@param long milis
 		@return void
@@ -398,7 +405,7 @@ public class TicTacToe
 	}
 
 	/**
-		*typedString: Prints a string as if it was being typed live.
+		*typedString: Prints a string as if it was being typed out.
 		*Time for normal writing is: 25
 		*Time for long writing is: 50
 		@param long time String sentence
@@ -417,23 +424,16 @@ public class TicTacToe
 		@return boolean
 	*/
 	public static boolean checkDraw(String[][] grid, String piece1, String piece2) {
-		boolean draw = false;
-		if(((grid[0][0].equals(piece1))||(grid[0][0].equals(piece2)))&&
-			((grid[0][1].equals(piece1))||(grid[0][1].equals(piece2)))&&
-			((grid[0][2].equals(piece1))||(grid[0][2].equals(piece2)))&&
-			((grid[1][0].equals(piece1))||(grid[1][0].equals(piece2)))&&
-			((grid[1][1].equals(piece1))||(grid[1][1].equals(piece2)))&&
-			((grid[1][2].equals(piece1))||(grid[1][2].equals(piece2)))&&
-			((grid[2][0].equals(piece1))||(grid[2][0].equals(piece2)))&&
-			((grid[2][1].equals(piece1))||(grid[2][1].equals(piece2)))&&
-			((grid[2][2].equals(piece1))||(grid[2][2].equals(piece2)))){
-				draw = true;
-				System.out.println("It's a draw. No one wins!");
-		}
-		else{
-			draw = false;
+		boolean draw = true;
+		for(int i =0;i<3;i++){
+			for(int j =0;j<3;j++){
+				if(!(grid[i][j].equals(piece1)||grid[i][j].equals(piece2))){
+					draw = false;
+				}
+			}
 		}
 		if(draw){
+			System.out.println("It's a draw. No one wins!");
 			displayGrid(grid);
 			blankGrid(grid);
 			return draw;
@@ -481,7 +481,7 @@ public class TicTacToe
 		}
 	}
 
-	/*
+	/**
 		*choiceInputter: Inputs the player's choice into the grid/array
 		@param String[][] String boolean String String
 		@return void
