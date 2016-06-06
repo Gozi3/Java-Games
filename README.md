@@ -18,6 +18,7 @@ The two choices are then compared and an answer is given.
 #### Program Description:
 A Tic Tac Toe /X's and O's game made in Java.
 #### Example of Display:  
+
  X | O | O  
 -----------  
  O | X | O  
