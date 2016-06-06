@@ -18,7 +18,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-@SuppressWarnings("unused")
+
 public class TicTacToe
 {
 	/**
@@ -26,7 +26,6 @@ public class TicTacToe
 	 @param String[] args
 	 @return void
 	 */
-	@SuppressWarnings({ "resource" })
 	public static void main (String args[]){
 		String [][] gameGrid = new String [3][3];
 		Scanner scan = new Scanner(System.in);
@@ -112,7 +111,6 @@ public class TicTacToe
 			}
 
 			else{
-
 				//player 1's go
 				if(player) {
 						sleep(750);
@@ -275,12 +273,12 @@ public class TicTacToe
 			}
 		}
 	}
-		//Game end
-		/**
-			*blankGrid: creates a blank Tic-Tac-Toe array template.
-			@param String[][]grid
-			@return void
-		*/
+	//Game end
+	/**
+		*blankGrid: creates a blank Tic-Tac-Toe array template.
+		@param String[][]grid
+		@return void
+	*/
 	public static void blankGrid(String[][] grid) {
 		sleep(500);
 		for(int i = 0;i<grid.length;i++){
