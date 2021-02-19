@@ -1,0 +1,596 @@
+                                           **File Manager**
+                                             Java Edition
+
+
+
+Quick Info:
+
+Remember to press the Enter Key at the end of your answer
+
+
+Program Description:
+
+In this program you can create folders and files (with extensions e.g .txt).
+
+You can also delete them, rename them and display them.
+
+The maximum number of folders allowed is 10.
+
+
+The maximum number of files in a folder allowed is 100.
+
+
+
+
+******************************************************************************************************
+
+
+                                             Instructions:
+
+
+
+                               To create a folder: type 'create folder'
+
+
+                                 To create a file: type 'create file'
+
+
+                               To delete a folder: type 'delete folder'
+
+
+                                 To delete a file: type 'delete file'
+
+
+                               To rename a folder: type 'rename folder'
+
+
+                                 To rename a file: type 'rename file'
+
+
+                           To sort any part of the file manager: type 'sort'
+
+
+                          To display all the folders:  type 'display folders'
+
+
+                      To display all the files in a folder: type 'display files'
+
+
+                            To empty the entire file manager: type 'empty'
+
+
+                                   To exit the program: type 'exit'
+
+
+                        You can always type 'help' to display the instructions.
+
+
+******************************************************************************************************
+
+
+
+Type what you want to do next: create folder
+
+
+******************************************************************************************************
+
+
+                                              Folder Creator:
+
+
+
+You currently haove 0 folders.
+
+
+Please, enter a name for your folder: Documents
+
+Done!
+
+
+
+
+******************************************************************************************************
+
+
+
+Type what you want to do next: create folder
+
+
+******************************************************************************************************
+
+
+                                              Folder Creator:
+
+
+
+You currently have 1 folder.
+
+
+Please, enter a name for your folder: Music
+
+Done!
+
+
+
+
+******************************************************************************************************
+
+
+
+Type what you want to do next: display folders
+
+
+******************************************************************************************************
+
+
+                                            Folder Display:
+
+
+
+                                             # # # # # # #
+
+                                             #  Folders  #
+
+                                # # # # # # #-# # # # # #-# # # # # # #
+
+                                #  Name:                    #  Size:  #
+
+                                #                           #         #
+
+                                #  DoDocuments              #   0     #
+
+                                #  Music                    #   0     #
+
+                                #                           #         #
+
+                                # # # # # # # # # # # # # # # # # # # #
+
+
+
+
+******************************************************************************************************
+
+
+
+Type what you want to do next: rename folder
+
+
+******************************************************************************************************
+
+
+                                            Folder Renamer:
+
+
+
+
+
+******************************************************************************************************
+
+
+                                            Folder Display:
+
+
+
+                                             # # # # # # #
+
+                                             #  Folders  #
+
+                                # # # # # # #-# # # # # #-# # # # # # #
+
+                                #  Name:                    #  Size:  #
+
+                                #                           #         #
+
+                                #  DoDocuments              #   0     #
+
+                                #  Music                    #   0     #
+
+                                #                           #         #
+
+                                # # # # # # # # # # # # # # # # # # # #
+
+
+
+
+******************************************************************************************************
+
+
+
+Please, enter the name of the folder you want to rename: DoDocuments
+
+
+Please, enter a name for your folder: Documents
+
+Done!
+
+
+
+
+******************************************************************************************************
+
+
+
+Type what you want to do next: display folders
+
+
+******************************************************************************************************
+
+
+                                            Folder Display:
+
+
+
+                                             # # # # # # #
+
+                                             #  Folders  #
+
+                                # # # # # # #-# # # # # #-# # # # # # #
+
+                                #  Name:                    #  Size:  #
+
+                                #                           #         #
+
+                                #  Documents                #   0     #
+
+                                #  Music                    #   0     #
+
+                                #                           #         #
+
+                                # # # # # # # # # # # # # # # # # # # #
+
+
+
+
+******************************************************************************************************
+
+
+
+Type what you want to do next: create file
+
+
+******************************************************************************************************
+
+
+                                             File Creator:
+
+
+
+
+
+******************************************************************************************************
+
+
+                                            Folder Display:
+
+
+
+                                             # # # # # # #
+
+                                             #  Folders  #
+
+                                # # # # # # #-# # # # # #-# # # # # # #
+
+                                #  Name:                    #  Size:  #
+
+                                #                           #         #
+
+                                #  Documents                #   0     #
+
+                                #  Music                    #   0     #
+
+                                #                           #         #
+
+                                # # # # # # # # # # # # # # # # # # # #
+
+
+
+
+******************************************************************************************************
+
+
+
+Please, enter the name of the folder you want the file to go in: Documents
+You currently have 0 files.
+
+
+Please, enter a name for your File: Essay
+
+
+Please, enter a name for your file extension
+
+docx
+
+Done!
+
+
+
+
+******************************************************************************************************
+
+
+
+Type what you want to do next: create file
+
+
+******************************************************************************************************
+
+
+                                             File Creator:
+
+
+
+
+
+******************************************************************************************************
+
+
+                                            Folder Display:
+
+
+
+                                             # # # # # # #
+
+                                             #  Folders  #
+
+                                # # # # # # #-# # # # # #-# # # # # # #
+
+                                #  Name:                    #  Size:  #
+
+                                #                           #         #
+
+                                #  Documents                #   1     #
+
+                                #  Music                    #   0     #
+
+                                #                           #         #
+
+                                # # # # # # # # # # # # # # # # # # # #
+
+
+
+
+******************************D**********o****c***********u*****m*e***n*********t********s************
+*********
+
+
+
+Please, enter the name of the folder you want the file to go in: You currently have 1 files.
+
+
+Please, enter a name for your File: Book
+
+
+Please, enter a name for your file extension
+
+pdf
+
+Done!
+
+
+
+
+******************************************************************************************************
+
+
+
+Type what you want to do next: display files
+
+
+******************************************************************************************************
+
+
+                                             File Display:
+
+
+
+
+
+******************************************************************************************************
+
+
+                                            Folder Display:
+
+
+
+                                             # # # # # # #
+
+                                             #  Folders  #
+
+                                # # # # # # #-# # # # # #-# # # # # # #
+
+                                #  Name:                    #  Size:  #
+
+                                #                           #         #
+
+                                #  Documents                #   2     #
+
+                                #  Music                    #   0     #
+
+                                #                           #         #
+
+                                # # # # # # # # # # # # # # # # # # # #
+
+
+
+
+******************************************************************************************************
+
+
+
+Please, enter the name of the folder you want to display:
+That is an Invalid Answer!
+
+
+Please try again: Documents
+                                              # # # # # #
+
+                                              #  Files  #
+
+                            # # # # # # # # # # # # # # # # # # # # # # # #
+
+                            #  Name:                      #  Type:        #
+
+                            #                             #               #
+
+                           #  Essay.docx                 #  Document File  #
+
+                           #  Book.pdf                   #  Document File  #
+
+                            #                             #               #
+
+                            # # # # # # # # # # # # # # # # # # # # # # # #
+
+
+
+
+******************************************************************************************************
+
+
+
+Type what you want to do next: CREATE FILE
+
+
+******************************************************************************************************
+
+
+                                             File Creator:
+
+
+
+
+
+******************************************************************************************************
+
+
+                                            Folder Display:
+
+
+
+                                             # # # # # # #
+
+                                             #  Folders  #
+
+                                # # # # # # #-# # # # # #-# # # # # # #
+
+                                #  Name:                    #  Size:  #
+
+                                #                           #         #
+
+                                #  Documents                #   2     #
+
+                                #  Music                    #   0     #
+
+                                #                           #         #
+
+                                # # # # # # # # # # # # # # # # # # # #
+
+
+
+
+******************************************************************************************************
+
+
+
+Please, enter the name of the folder you want the file to go in: Music
+You currently have 0 files.
+
+
+Please, enter a name for your File: Dubstep
+
+
+Please, enter a name for your file extension
+
+mp3
+
+Done!
+
+
+
+
+******************************************************************************************************
+
+
+
+Type what you want to do next: displaykjsndaksd
+That is an Invalid Answer!
+
+
+Please try again: aos,dls
+That is an Invalid Answer!
+
+
+Please try again: lasdask
+That is an Invalid Answer!
+
+
+Remember your options are: [create folder, create file, delete folder, delete file, rename folder, rename file, display folders, display files, sort, empty, exit, help]
+
+Please try again: display files
+
+
+******************************************************************************************************
+
+
+                                             File Display:
+
+
+
+
+
+******************************************************************************************************
+
+
+                                            Folder Display:
+
+
+
+                                             # # # # # # #
+
+                                             #  Folders  #
+
+                                # # # # # # #-# # # # # #-# # # # # # #
+
+                                #  Name:                    #  Size:  #
+
+                                #                           #         #
+
+                                #  Documents                #   2     #
+
+                                #  Music                    #   1     #
+
+                                #                           #         #
+
+                                # # # # # # # # # # # # # # # # # # # #
+
+
+
+
+******************************************************************************************************
+
+
+
+Please, enter the name of the folder you want to display: Music
+                                              # # # # # #
+
+                                              #  Files  #
+
+                            # # # # # # # # # # # # # # # # # # # # # # # #
+
+                            #  Name:                      #  Type:        #
+
+                            #                             #               #
+
+                            #  Dubstep.mp3                #  Audio File   #
+
+                            #                             #               #
+
+                            # # # # # # # # # # # # # # # # # # # # # # # #
+
+
+
+
+******************************************************************************************************
+
+
+
+Type what you want to do next: exit

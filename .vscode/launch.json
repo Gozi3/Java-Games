@@ -1,0 +1,574 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Launch computerWordGame",
+			"request": "launch",
+			"mainClass": "computerWordGame",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Launch Hangman",
+			"request": "launch",
+			"mainClass": "Hangman",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - hashCodeSolution",
+			"request": "launch",
+			"mainClass": "Google_HashCode.hashCodeSolution.hashCodeSolution",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - middleQueue",
+			"request": "launch",
+			"mainClass": "middleQueue",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - discountConditions",
+			"request": "launch",
+			"mainClass": "DiscountConditons.discountConditions",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - cPlusCPlus2Java",
+			"request": "launch",
+			"mainClass": "cPlusCPlus2Java",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - hashCodePractice",
+			"request": "launch",
+			"mainClass": "Google_HashCode.hashCodePractice.hashCodePractice",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - palindromicPermutations",
+			"request": "launch",
+			"mainClass": "palindromicPermutations",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - MonteCarloSpaghettiConor",
+			"request": "launch",
+			"mainClass": "MonteCarloSpaghettiConor",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - MonteCarloSpaghettiLinda",
+			"request": "launch",
+			"mainClass": "MonteCarloSpaghettiLinda",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - MonteCarloSpaghetti",
+			"request": "launch",
+			"mainClass": "MonteCarloSpaghetti",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch) - Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Ackermann<Java>",
+			"request": "launch",
+			"mainClass": "Ackermann",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-CS141<Java>",
+			"request": "launch",
+			"mainClass": "CS141",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-CS143_1B<Java>",
+			"request": "launch",
+			"mainClass": "CS143_1B",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-CTC2014<Java>",
+			"request": "launch",
+			"mainClass": "CTC2014.CTC2014",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Rearranger<Java>",
+			"request": "launch",
+			"mainClass": "CTC2014.Rearranger",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-SumPreciseValuesGen<Java>",
+			"request": "launch",
+			"mainClass": "CTC2014.SumPreciseValuesGen",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-DateClient<Java>",
+			"request": "launch",
+			"mainClass": "Cs240.DateClient",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-DateServer<Java>",
+			"request": "launch",
+			"mainClass": "Cs240.DateServer",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-decrypt<Java>",
+			"request": "launch",
+			"mainClass": "Decrypt.decrypt",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Graph<Java>",
+			"request": "launch",
+			"mainClass": "Dijkstra.Graph",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-backup<Java>",
+			"request": "launch",
+			"mainClass": "Dijkstra.backup",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FizzBuzzWoof<Java>",
+			"request": "launch",
+			"mainClass": "FizzBuzzWoof",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Hashing<Java>",
+			"request": "launch",
+			"mainClass": "Hashing.Hashing",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-temp<Java>",
+			"request": "launch",
+			"mainClass": "Hashing.temp",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-HelloWorld<Java>",
+			"request": "launch",
+			"mainClass": "HelloWorld",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-HexCC2RGBConverter<Java>",
+			"request": "launch",
+			"mainClass": "HexCC2RGBConverter",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Huffman<Java>",
+			"request": "launch",
+			"mainClass": "Huffman.Huffman",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-LuhnsAlgo<Java>",
+			"request": "launch",
+			"mainClass": "LuhnsAlgo",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-minVolatility<Java>",
+			"request": "launch",
+			"mainClass": "MinVolatility.minVolatility",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Mode<Java>",
+			"request": "launch",
+			"mainClass": "Mode",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-MonteCarloDice<Java>",
+			"request": "launch",
+			"mainClass": "MonteCarloDice.MonteCarloDice",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Partitioning<Java>",
+			"request": "launch",
+			"mainClass": "Partitioning",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-msgExtract<Java>",
+			"request": "launch",
+			"mainClass": "PublicKeyCrypto.msgExtract",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Q3Arr<Java>",
+			"request": "launch",
+			"mainClass": "Q3Arr",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-QuickSort<Java>",
+			"request": "launch",
+			"mainClass": "QuickSort",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Rainbow<Java>",
+			"request": "launch",
+			"mainClass": "Rainbow",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-RockPaperScissors<Java>",
+			"request": "launch",
+			"mainClass": "RockPaperScissors",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-stringCapitalizer<Java>",
+			"request": "launch",
+			"mainClass": "SampleJavaCode.stringCapitalizer",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Scrabble<Java>",
+			"request": "launch",
+			"mainClass": "Scrabble.Scrabble",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Solution<Java>",
+			"request": "launch",
+			"mainClass": "Solution",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Solution1<Java>",
+			"request": "launch",
+			"mainClass": "Solution1",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Solution2<Java>",
+			"request": "launch",
+			"mainClass": "Solution2",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-StdDraw<Java>",
+			"request": "launch",
+			"mainClass": "StdDraw",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Stocks<Java>",
+			"request": "launch",
+			"mainClass": "Stocks.Stocks",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-TicTacToe<Java>",
+			"request": "launch",
+			"mainClass": "TicTacToe",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Tuesday<Java>",
+			"request": "launch",
+			"mainClass": "Tuesday",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Upper<Java>",
+			"request": "launch",
+			"mainClass": "Upper",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-X_X<Java>",
+			"request": "launch",
+			"mainClass": "X_X",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-X_X<Java>(1)",
+			"request": "launch",
+			"mainClass": "X_X.X_X",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-X_Y<Java>",
+			"request": "launch",
+			"mainClass": "X_X.X_Y",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-arrayCopy<Java>",
+			"request": "launch",
+			"mainClass": "arrayCopy",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-evenDigitsOnly<Java>",
+			"request": "launch",
+			"mainClass": "evenDigitsOnly",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-fibRecursive<Java>",
+			"request": "launch",
+			"mainClass": "fibRecursive",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-fileManager<Java>",
+			"request": "launch",
+			"mainClass": "fileManager",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-findTheProblem<Java>",
+			"request": "launch",
+			"mainClass": "findTheProblem",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-forever_and_ever<Java>",
+			"request": "launch",
+			"mainClass": "forever_and_ever",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-fourDigitSplitter<Java>",
+			"request": "launch",
+			"mainClass": "fourDigitSplitter",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-functionPractice<Java>",
+			"request": "launch",
+			"mainClass": "functionPractice",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-halfStarTree<Java>",
+			"request": "launch",
+			"mainClass": "halfStarTree",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-largestNumber<Java>",
+			"request": "launch",
+			"mainClass": "largestNumber",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-letterChecker<Java>",
+			"request": "launch",
+			"mainClass": "letterChecker",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-mergeSort<Java>",
+			"request": "launch",
+			"mainClass": "mergeSort",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-phoneNumberFormat<Java>",
+			"request": "launch",
+			"mainClass": "phoneNumberFormat",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-primeBounds<Java>",
+			"request": "launch",
+			"mainClass": "primeBounds",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-printDigitsInReverse<Java>",
+			"request": "launch",
+			"mainClass": "printDigitsInReverse",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-pseudoCode<Java>",
+			"request": "launch",
+			"mainClass": "pseudoCode",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-reverseStringChecker<Java>",
+			"request": "launch",
+			"mainClass": "reverseStringChecker",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-stackClass<Java>",
+			"request": "launch",
+			"mainClass": "stackClass",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-stick<Java>",
+			"request": "launch",
+			"mainClass": "stick",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-stringtester2<Java>",
+			"request": "launch",
+			"mainClass": "stringtester2",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-test<Java>",
+			"request": "launch",
+			"mainClass": "test",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-test1<Java>",
+			"request": "launch",
+			"mainClass": "test1",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-test2<Java>",
+			"request": "launch",
+			"mainClass": "test2",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-testS<Java>",
+			"request": "launch",
+			"mainClass": "testS",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-twoNumberFun<Java>",
+			"request": "launch",
+			"mainClass": "twoNumberFun",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-typedStringTester<Java>",
+			"request": "launch",
+			"mainClass": "typedStringTester",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-var_test<Java>",
+			"request": "launch",
+			"mainClass": "var_test",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-var_test1<Java>",
+			"request": "launch",
+			"mainClass": "var_test1",
+			"projectName": "Java"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-hashCodeSolution<hashCodeSolution>",
+			"request": "launch",
+			"mainClass": "hashCodeSolution",
+			"projectName": "hashCodeSolution"
+		}
+	]
+}

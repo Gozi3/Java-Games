@@ -1,0 +1,11 @@
+Left Scale:15 Right Scale:151139664640 Lowest Difference:1.2025998330500443E-6
+LS: [892.4619716179, 903.7377462704, 929.6904557832, 962.5462696112]
+RS: [51.4850317134, 105.8528413349, 122.9384045928, 151.1450925163, 183.995866359, 369.2540390179, 404.8532995549, 703.608829422, 796.2912984161, 799.0117391528]
+
+
+Notes:
+549755813889
+The right scales of the really low differences(below 1) are all even
+The occurence of 1's in binary numbers have a pattern starting with:
+|0,1,1,2|1,2,2,3|1,2,2,3|2,3,3,4|1,2,2,3|2,3,3,4|2,3,3,4|3,4,4,5|
+notice the way the start of each set corresponds with the first row then second etc.

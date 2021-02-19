@@ -1,0 +1,28 @@
+{
+	"folders":
+	[
+		{
+			"path": "/C/Users/Nosa/Google Drive/Coding_Folder/Java/PublicKeyCrypto"
+		}
+	],
+	"settings":
+	{
+		"SublimeLinter":
+		{
+			"Java":
+			{
+				"lint_args":
+				[
+					"-sourcepath",
+					"src",
+					"-classpath",
+					"libs/log4j-1.2.9.jar:libs/commons-logging-1.1.jar",
+					"-Xlint",
+					"-Xlint:-serial",
+					"{filename}"
+				],
+				"working_directory": "/C/Users/Nosa/Google Drive/Coding_Folder/Java/PublicKeyCrypto"
+			}
+		}
+	}
+}

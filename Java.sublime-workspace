@@ -1,0 +1,1175 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"when",
+				"whenLD"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"arr",
+				"arrLD"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"o",
+				"original"
+			],
+			[
+				"pr",
+				"println()\tvoid"
+			],
+			[
+				"bi",
+				"BigInteger"
+			],
+			[
+				"Bi",
+				"BigInteger"
+			],
+			[
+				"m",
+				"multiply(BigInteger)\tBigInteger"
+			],
+			[
+				"toS",
+				"toString()\tString"
+			],
+			[
+				"File",
+				"FileWriter"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"throw",
+				"throws"
+			],
+			[
+				"word",
+				"wordCount"
+			],
+			[
+				"p",
+				"println()\tvoid"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"myster",
+				"mysteryFreq"
+			],
+			[
+				"mys",
+				"mysteryFreq"
+			],
+			[
+				"so",
+				"sort(double[])\tvoid"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"Arrays",
+				"ArrayList"
+			],
+			[
+				"di",
+				"dictionary"
+			],
+			[
+				"s",
+				"suggestions"
+			],
+			[
+				"sugg",
+				"suggestions"
+			],
+			[
+				"sugges",
+				"suggested"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"to",
+				"toCharArray"
+			],
+			[
+				"suggest",
+				"suggest"
+			],
+			[
+				"A",
+				"ArrayList"
+			],
+			[
+				"dict",
+				"dict"
+			],
+			[
+				"Fil",
+				"FileOutputStream"
+			],
+			[
+				"ge",
+				"getBytes"
+			],
+			[
+				"huffm",
+				"huffmanString"
+			],
+			[
+				"DS",
+				"Decompressed"
+			],
+			[
+				"comp",
+				"compressor"
+			],
+			[
+				"H",
+				"HuffmanTree"
+			],
+			[
+				"binary",
+				"binaryString"
+			],
+			[
+				"b",
+				"binaryString2"
+			],
+			[
+				"tree",
+				"treeTraverse"
+			],
+			[
+				"order",
+				"orderLoc"
+			],
+			[
+				"dr",
+				"drone"
+			],
+			[
+				"dron",
+				"droneLocation"
+			],
+			[
+				"wh",
+				"whLocation"
+			],
+			[
+				"orde",
+				"orderLoc"
+			],
+			[
+				"max",
+				"maxDWeight"
+			],
+			[
+				"has",
+				"hashCodeSolution"
+			],
+			[
+				"W",
+				"with"
+			],
+			[
+				"answe",
+				"answerSize"
+			],
+			[
+				"end",
+				"endNumber"
+			],
+			[
+				"prin",
+				"printArray"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"Eras",
+				"ERASE_CELL"
+			],
+			[
+				"pain",
+				"PAINT_SQUARE"
+			],
+			[
+				"a",
+				"answer"
+			],
+			[
+				"C2",
+				"C2"
+			],
+			[
+				"answer",
+				"answerSize"
+			],
+			[
+				"paint",
+				"paintLine"
+			],
+			[
+				"ne",
+				"nextLine"
+			],
+			[
+				"rea",
+				"readLine"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"fileMana",
+				"fileManagerSort"
+			],
+			[
+				"file",
+				"fileNames"
+			],
+			[
+				"folder",
+				"folderSize"
+			],
+			[
+				"location",
+				"location2"
+			],
+			[
+				"space",
+				"spaceCalc"
+			],
+			[
+				"type",
+				"typeSelector"
+			],
+			[
+				"fileManager",
+				"fileManagerSize"
+			],
+			[
+				"Ex",
+				"Extensions"
+			],
+			[
+				"null",
+				"nullsToNull"
+			],
+			[
+				"de",
+				"descending"
+			],
+			[
+				"fileMAna",
+				"fileManagerSize"
+			],
+			[
+				"fileMA",
+				"fileManagerSize"
+			],
+			[
+				"crea",
+				"createFile"
+			],
+			[
+				"empty",
+				"emptyFileManager"
+			],
+			[
+				"equals",
+				"equalsIgnoreCase"
+			],
+			[
+				"fil",
+				"fileTypes"
+			],
+			[
+				"name",
+				"nameChecker"
+			],
+			[
+				"count",
+				"counter"
+			],
+			[
+				"valid",
+				"validEntryChecker"
+			],
+			[
+				"command",
+				"commandSort"
+			],
+			[
+				"fol",
+				"folderkey"
+			],
+			[
+				"next",
+				"nextLine"
+			],
+			[
+				"empy",
+				"emptyNameChecker"
+			],
+			[
+				"va",
+				"validEntryChecker"
+			],
+			[
+				"emp",
+				"emptyFileManager"
+			],
+			[
+				"typed",
+				"typedString"
+			],
+			[
+				"mili",
+				"miliseconds"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"mer",
+				"mergeSort"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"largest",
+				"largestNumber"
+			],
+			[
+				"small",
+				"smallestNumber"
+			],
+			[
+				"number",
+				"largestNumber"
+			],
+			[
+				"is",
+				"isSameReversed"
+			],
+			[
+				"euro",
+				"euroArray"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "arrayCopy.java",
+			"settings":
+			{
+				"buffer_size": 380,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "import java.util.*;\n\npublic class evenDigitsOnly{\n    public static void main(String args[]){\n\t\tScanner scan = new Scanner(System.in);\n\t\tinput = scan.nextInt();\n        System.out.println(evenOnly(input));\n    }\n    public static boolean evenOnly(int n) {\n        String num =  Integer.toString(n);\n        String array[] = num.split(\"\");\n        for(int i = 0;i<array.length;i++){\n            if(Integer.parseInt(array[i]) % 2 != 0){\n                return false;\n            }\n            else{\n                \n            }\n        }\n        return true;\n    }\n}\n",
+			"file": "evenDigitsOnly.java",
+			"file_size": 589,
+			"file_write_time": 131097085740000000,
+			"settings":
+			{
+				"buffer_size": 567,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fileManager.java",
+			"settings":
+			{
+				"buffer_size": 45549,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/JavaC.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/Java.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/Java.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Java.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					"Input"
+				]
+			],
+			[
+				"Packages/User/Java.sublime-build",
+				"Input"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Java.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaC.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/User/JavaC.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/JavaC.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaC.sublime-build",
+					"Input"
+				]
+			],
+			[
+				"Packages/User/JavaC.sublime-build",
+				"Input"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"javaC",
+				"Build With: JavaC"
+			],
+			[
+				"input",
+				"Build With: Java - Input"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"",
+				"BracketHighlighter: Toggle Global Enable"
+			],
+			[
+				"line",
+				"Build: Java Lintter"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: v",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Channel"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ecli",
+				"Eclipse: Format Java"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"Eclipse: Format Java"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 170.0,
+		"history":
+		[
+			"cmd.py",
+			"powershell"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/gosar/Google Drive/Coding_Folder/Java"
+	],
+	"file_history":
+	[
+		"/C/Users/gosar/Google Drive/HackerRank/caesarCipher.java",
+		"/C/Users/gosar/Google Drive/Coding_Folder/Java/largestNumber.java",
+		"/C/Users/gosar/AppData/Roaming/Sublime Text 3/Packages/User/JavaC.sublime-build",
+		"/C/Users/gosar/Google Drive/HackerRank/angryProfessor.java",
+		"/C/Users/gosar/Google Drive/Coding_Folder/Java/arrayCopy.java",
+		"/C/Users/gosar/Google Drive/HackerRank/BeautDayAtMov.java",
+		"/C/Users/gosar/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/gosar/Google Drive/Coding_Folder/Java/HexCC2RGBConverter.java",
+		"/C/Users/gosar/AppData/Roaming/Sublime Text 3/Packages/User/SublimeText_Builds.ps1",
+		"/C/Users/gosar/AppData/Roaming/Sublime Text 3/Packages/CMD/cmd.py",
+		"/C/Users/gosar/AppData/Roaming/Sublime Text 3/Packages/User/SublimeText_Run.ps1",
+		"/C/Users/gosar/AppData/Roaming/Sublime Text 3/Packages/User/SublimeText_Build.ps1",
+		"/C/Users/gosar/AppData/Roaming/Sublime Text 3/Packages/User/PythonC.sublime-build",
+		"/C/Users/gosar/AppData/Roaming/Sublime Text 3/Packages/CMD/Contet.sublime-menu",
+		"/C/Users/gosar/AppData/Roaming/Sublime Text 3/Packages/User/Java.sublime-build",
+		"/C/Users/gosar/Google Drive/HackerRank/findAngMBC.py",
+		"/C/Users/gosar/Google Drive/HackerRank/appleOrange.java",
+		"/C/Users/gosar/Google Drive/Coding_Folder/Java/fileManager.java",
+		"/C/Users/gosar/Google Drive/HackerRank/cashier.java",
+		"/C/Users/gosar/Google Drive/Coding_Folder/Java/Java.sublime-project",
+		"/C/Users/gosar/AppData/Local/Temp/7zOCB65ED83/Java.sublime-build",
+		"/C/Users/gosar/Google Drive/Coding_Folder/Java/fibRecursive.java",
+		"/C/Users/gosar/Google Drive/Coding_Folder/Java/.classpath",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Java.sublime-project",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Stocks/StockData.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Stocks/Stocks.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Hashing/temp.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Hashing/Hashing.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Scrabble/Scrabble.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Hashing/Dictionary.txt",
+		"/C/Users/Nosa/Desktop/Larry's Array Q HR.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/PublicKeyCrypto/msgExtract.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Hashing/nextPrime.java",
+		"/C/xampp/htdocs/css/CSS.css",
+		"/C/xampp/htdocs/PHP.php",
+		"/C/xampp/htdocs/js/JS.js",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Color Highlighter/Default.sublime-keymap",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/-_-_-.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/TicTacToe.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Huffman/Tree.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Huffman/Node.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Huffman/Huffman.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Huffman/huffman.sublime-project",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/Swedish.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/Spanish.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/Polish.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/Danish.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/German.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/Icelandic.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/French.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/Mystery.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/Finnish.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/English.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/decrypt.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/wordCounter.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/mystery.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/Decrypt.sublime-workspace",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/fileManager.java",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/Decrypt.sublime-project",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Nosa/Google Drive/FL Studio Projects/AfrobeatTest.flp",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/decrypt.java",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/sublimelinter/modules/java.pyc",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/sublimelinter/modules/java.py",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/All Hallow's Eve.tmTheme",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/SyntaxMgr.sublime-settings",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Decrypt/mystery",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Project/Coordinate.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/JAVASCRIPT.js",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/CSS.css",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/HTML.html",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Project/Project.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Scrabble/Dictionary.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Scrabble/FileIO.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Huffman/Decompressed.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Huffman/Compressed.txt",
+		"/C/Users/Nosa/Google Drive/Google HashCode/hashCodePractice/hashCodePractice.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/QuickSort.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/mergeSort.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Scrabble/yo.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/typedStringTester.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Huffman/Tree.class",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Huffman/Node.class",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Huffman/Huffman.class",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Partitioning.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/temp/Tree.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/temp/Node.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/temp/Huffman.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/RubyonRails/railsTest/app/controllers/welcome_controller.rb",
+		"/C/RailsInstaller/Ruby2.2.0/bin/rails",
+		"/C/Users/Nosa/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/rails-4.2.5.1.gemspec",
+		"/C/Users/Nosa/Google Drive/Google HashCode/hashCodeSolution/sample.in",
+		"/C/Users/Nosa/Google Drive/Google HashCode/hashCodeSolution/redundancy.in",
+		"/C/Users/Nosa/Google Drive/Google HashCode/hashCodeSolution/mother_of_all_warehouses.in",
+		"/C/Users/Nosa/Google Drive/Google HashCode/hashCodeSolution/hashCodeSolution.java",
+		"/C/Users/Nosa/Google Drive/Google HashCode/hashCodeSolution/Drone.java",
+		"/C/Users/Nosa/Google Drive/Google HashCode/hashCodeSolution/busy_day.in",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Assembly/s.asm",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Assembly/hw.asm",
+		"/C/8086/hw.asm",
+		"/C/8086/s.asm",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Assembly/speed.asm",
+		"/C/Users/Nosa/Google Drive/Google HashCode/Drone.java",
+		"/C/Users/Nosa/Google Drive/Google HashCode/hashCodeSolution.java",
+		"/C/Users/Nosa/Google Drive/Google HashCode/mother_of_all_warehouses.in",
+		"/C/Users/Nosa/Google Drive/Google HashCode/redundancy.in",
+		"/C/Users/Nosa/Google Drive/Google HashCode/busy_day.in",
+		"/C/Users/Nosa/Google Drive/Computer Science/Demo 2/ShoppingCartTest.java",
+		"/C/Users/Nosa/Google Drive/Computer Science/Demo 2/ShoppingCart.java",
+		"/C/Users/Nosa/Google Drive/Computer Science/Demo 2/Product.java",
+		"/C/Users/Nosa/Google Drive/Computer Science/Demo 1/CarTest.java",
+		"/C/Users/Nosa/Google Drive/Computer Science/Demo 1/Car.java",
+		"/C/Users/Nosa/Google Drive/Google HashCode/hashCodePractice.java",
+		"/C/Users/Nosa/Google Drive/Google HashCode/hashCode.java",
+		"/C/Users/Nosa/Google Drive/Google HashCode/hashCode/Logo.txt",
+		"/C/Users/Nosa/Google Drive/Google HashCode/right_angle.in",
+		"/C/Users/Nosa/Google Drive/Google HashCode/logo.in",
+		"/C/Users/Nosa/Google Drive/Google HashCode/hash.in",
+		"/C/Users/Nosa/Google Drive/Google HashCode/learn_and_teach.in"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n\t\t\tarrLD[j] = lDraw;",
+			"//",
+			"// ",
+			"//",
+			" //",
+			"//",
+			"// ",
+			"dHK_count",
+			"dHK_counter",
+			"world",
+			"dhk",
+			"getDoubleHash",
+			"modPow",
+			"index",
+			"probes",
+			"setC",
+			"\t\t\n",
+			"mode",
+			"ctrl+p",
+			"¡",
+			"ç",
+			"¯",
+			"­",
+			"­­",
+			"ù",
+			"…",
+			"ô",
+			"©",
+			"­",
+			" ¯E",
+			"¯E",
+			"þ",
+			"_E",
+			"¡",
+			"`",
+			"þ",
+			"`",
+			"ù",
+			"…",
+			".",
+			"~",
+			"©",
+			"$",
+			"­",
+			"¡",
+			"`",
+			"ù",
+			"…",
+			".",
+			"­",
+			"$",
+			"(",
+			"¯",
+			"¡",
+			"ù",
+			"¡",
+			"ù",
+			"…",
+			".",
+			"length",
+			"())\n",
+			" ",
+			".*;\n",
+			".nextInt",
+			"f",
+			"warehouse",
+			"420",
+			"answerSize",
+			"* @",
+			"param void",
+			"System.out.print",
+			"#",
+			"System",
+			"#",
+			"));\n",
+			"finder",
+			"*",
+			".",
+			"#",
+			"scan",
+			"renameFile",
+			"nullsTo",
+			"scan.nextLine",
+			"creatFile",
+			"answer",
+			"createFolder",
+			"];\n",
+			"\");\n",
+			"20",
+			"25",
+			"printed out",
+			");\n",
+			"infile",
+			"level4",
+			"TRIM",
+			"GETTEXT",
+			"intern",
+			"infile",
+			"inurl",
+			"url",
+			"inurl",
+			"openstream",
+			"s",
+			"getParameter",
+			"inuser",
+			"countdata",
+			"codebase",
+			"inuser",
+			"htm",
+			"€",
+			"Eur",
+			"€",
+			");\n",
+			"understandMinutes",
+			"in.n",
+			"#"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"// ",
+			"//",
+			" //",
+			"// ",
+			"//",
+			"E",
+			"L",
+			"C",
+			"R",
+			"R ",
+			" ",
+			"ù",
+			"V",
+			"Y",
+			"B",
+			"S",
+			"E",
+			",",
+			" ",
+			"V",
+			"I",
+			"A",
+			"T",
+			"E",
+			",",
+			" ",
+			"V",
+			"I",
+			"S",
+			"L",
+			" ",
+			"A",
+			"E",
+			"a",
+			"e",
+			"V",
+			"I",
+			"hashCodeSolution.warehouse",
+			"size",
+			"  @",
+			"param",
+			"$",
+			"*",
+			"+",
+			".",
+			"#",
+			"*",
+			"sc",
+			"answers",
+			"10",
+			"20",
+			"displayed",
+			"Eur ",
+			"Eur",
+			"numberToWords",
+			"scan.n",
+			"Integer.parseInt"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "arrayCopy.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "evenDigitsOnly.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "fileManager.java",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29045,
+								29056
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9755.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 384.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 520.0
+	},
+	"pinned_build_system": "Packages/User/JavaC.sublime-build",
+	"project": "Java.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

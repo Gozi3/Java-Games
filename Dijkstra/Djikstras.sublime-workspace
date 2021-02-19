@@ -1,0 +1,1585 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"C",
+				"CS230	(HTML.html)"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"FONT",
+				"font-family"
+			],
+			[
+				"aler",
+				"alert(message)	Window"
+			],
+			[
+				"load",
+				"loadXMLDoc"
+			],
+			[
+				"nu",
+				"numLeaving	(data.json)"
+			],
+			[
+				"num",
+				"numEntering	(data.json)"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"serif",
+				"sans-serif"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"j",
+				"json_encode"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"print",
+				"printArray"
+			],
+			[
+				"n",
+				"nextInt()	int"
+			],
+			[
+				"sca",
+				"Scanner"
+			],
+			[
+				"S",
+				"Scanner	(larryArrays.java)"
+			],
+			[
+				"s",
+				"static"
+			],
+			[
+				"m",
+				"main	method (main)"
+			],
+			[
+				"st",
+				"static	(larryArrays.java)"
+			],
+			[
+				"r",
+				"rotate"
+			],
+			[
+				"f",
+				"for	for"
+			],
+			[
+				"first",
+				"firstime"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"th",
+				"thoughts"
+			],
+			[
+				"diary",
+				"diary_database"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"sentry",
+				"sentryHitCount"
+			],
+			[
+				"be",
+				"bePerpendicular"
+			],
+			[
+				"onBu",
+				"onBulletMissed"
+			],
+			[
+				"hit",
+				"hitCount"
+			],
+			[
+				"set",
+				"setBulletColor	(Tracker.java)"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"text",
+				"textbox	(Forums.html)"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"Gozigo",
+				"Gozigool Slogan.png	w:1920 h:1080"
+			],
+			[
+				"guess",
+				"guess_col"
+			],
+			[
+				"Sca",
+				"scan"
+			],
+			[
+				"X",
+				"X_X"
+			],
+			[
+				"char",
+				"charAt(int)	char"
+			],
+			[
+				"U",
+				"Users/"
+			],
+			[
+				"word",
+				"wordCount"
+			],
+			[
+				"p",
+				"println()	void"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"myster",
+				"mysteryFreq"
+			],
+			[
+				"mys",
+				"mysteryFreq"
+			],
+			[
+				"so",
+				"sort(double[])	void"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"Arrays",
+				"ArrayList"
+			],
+			[
+				"di",
+				"dictionary"
+			],
+			[
+				"sugg",
+				"suggestions"
+			],
+			[
+				"sugges",
+				"suggested"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"to",
+				"toCharArray"
+			],
+			[
+				"suggest",
+				"suggest"
+			],
+			[
+				"A",
+				"ArrayList"
+			],
+			[
+				"dict",
+				"dict"
+			],
+			[
+				"File",
+				"FileOutputStream"
+			],
+			[
+				"Fil",
+				"FileOutputStream"
+			],
+			[
+				"ge",
+				"getBytes"
+			],
+			[
+				"huffm",
+				"huffmanString"
+			],
+			[
+				"DS",
+				"Decompressed"
+			],
+			[
+				"comp",
+				"compressor"
+			],
+			[
+				"H",
+				"HuffmanTree"
+			],
+			[
+				"binary",
+				"binaryString"
+			],
+			[
+				"b",
+				"binaryString2"
+			],
+			[
+				"tree",
+				"treeTraverse"
+			],
+			[
+				"order",
+				"orderLoc"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"dr",
+				"drone"
+			],
+			[
+				"dron",
+				"droneLocation"
+			],
+			[
+				"orde",
+				"orderLoc"
+			],
+			[
+				"has",
+				"hashCodeSolution"
+			],
+			[
+				"W",
+				"with"
+			],
+			[
+				"answe",
+				"answerSize"
+			],
+			[
+				"end",
+				"endNumber"
+			],
+			[
+				"prin",
+				"printArray"
+			],
+			[
+				"Eras",
+				"ERASE_CELL"
+			],
+			[
+				"pain",
+				"PAINT_SQUARE"
+			],
+			[
+				"a",
+				"answer"
+			],
+			[
+				"C2",
+				"C2"
+			],
+			[
+				"answer",
+				"answerSize"
+			],
+			[
+				"paint",
+				"paintLine"
+			],
+			[
+				"ne",
+				"nextLine"
+			],
+			[
+				"rea",
+				"readLine"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"fileMana",
+				"fileManagerSort"
+			],
+			[
+				"file",
+				"fileNames"
+			],
+			[
+				"folder",
+				"folderSize"
+			],
+			[
+				"location",
+				"location2"
+			],
+			[
+				"space",
+				"spaceCalc"
+			],
+			[
+				"type",
+				"typeSelector"
+			],
+			[
+				"fileManager",
+				"fileManagerSize"
+			],
+			[
+				"Ex",
+				"Extensions"
+			],
+			[
+				"null",
+				"nullsToNull"
+			],
+			[
+				"de",
+				"descending"
+			],
+			[
+				"fileMAna",
+				"fileManagerSize"
+			],
+			[
+				"fileMA",
+				"fileManagerSize"
+			],
+			[
+				"crea",
+				"createFile"
+			],
+			[
+				"empty",
+				"emptyFileManager"
+			],
+			[
+				"equals",
+				"equalsIgnoreCase"
+			],
+			[
+				"fil",
+				"fileTypes"
+			],
+			[
+				"name",
+				"nameChecker"
+			],
+			[
+				"count",
+				"counter"
+			],
+			[
+				"valid",
+				"validEntryChecker"
+			],
+			[
+				"command",
+				"commandSort"
+			],
+			[
+				"fol",
+				"folderkey"
+			],
+			[
+				"next",
+				"nextLine"
+			],
+			[
+				"empy",
+				"emptyNameChecker"
+			],
+			[
+				"va",
+				"validEntryChecker"
+			],
+			[
+				"emp",
+				"emptyFileManager"
+			],
+			[
+				"typed",
+				"typedString"
+			],
+			[
+				"mili",
+				"miliseconds"
+			],
+			[
+				"mer",
+				"mergeSort"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"o",
+				"out"
+			],
+			[
+				"largest",
+				"largestNumber"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Graph.java",
+			"settings":
+			{
+				"buffer_size": 3126,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Graph.txt",
+			"settings":
+			{
+				"buffer_size": 241,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "backup.java",
+			"settings":
+			{
+				"buffer_size": 104,
+				"line_ending": "Windows",
+				"name": "public class backup{"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"colp",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"",
+				"BracketHighlighter: Toggle Global Enable"
+			],
+			[
+				"line",
+				"Build: Java Lintter"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: v",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Channel"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ecli",
+				"Eclipse: Format Java"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"Eclipse: Format Java"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 170.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/Phoenix - Ultimate Galaxy 10™ Theme/Fonts/Fonts.vbs",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Dijkstra/Djikstras.sublime-project",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/Diary/diary.sublime-project",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/Diary/sftp-config.json",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/store.php",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/TextHighlighter/TH.sublime-project",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/TextHighlighter/sftp-config.json",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/TextHighlighter/HTML.html",
+		"/C/Users/Nosa/Google Drive/Website/js/Gozigool-Industries.js",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/YogaSite-FileZilla.sftp-out",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/yoga.sublime-project",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/C++/print_binary.cpp",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/C++/C++.sublime-build",
+		"/C/Users/Nosa/Desktop/Things to do.txt",
+		"/C/Users/Nosa/Desktop/Champs to play in lanes.txt",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/Nosa/Google Drive/Website/Gozigool.sublime-workspace",
+		"/C/Users/Nosa/Google Drive/Website/Gozigool.sublime-project",
+		"/C/Users/Nosa/Google Drive/Website/sftp-config.json",
+		"/C/Users/Nosa/Google Drive/Website/img/LockScreen107.jpg",
+		"/C/Users/Nosa/Google Drive/Website/img/GoziGool Industries Lighter Blue Logo (Trans.).png",
+		"/C/Users/Nosa/Google Drive/Website/css/Gozigool-Industries.css",
+		"/C/Users/Nosa/Google Drive/Website/Gozigool-Industries.php",
+		"/C/Users/Nosa/Google Drive/Website/Forums.php",
+		"/C/Users/Nosa/Google Drive/Website/Contact.php",
+		"/C/Users/Nosa/Google Drive/StoryWebsite/home.css",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/C/Users/Nosa/Google Drive/Website/Yolo.txt",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460901506/Gozigool-FileZilla.sftp-out/Gozigool-Industries.php",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460901481/Gozigool-FileZilla.sftp-out/Forums.php",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460901454/Gozigool-FileZilla.sftp-out/Contact.php",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460899699/Gozigool-FileZilla.sftp-out/js/Gozigool-Industries.js",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460899680/Gozigool-FileZilla.sftp-out/css/Gozigool-Industries.css",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460899651/Gozigool-FileZilla.sftp-out/Contact.php",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460899627/Gozigool-FileZilla.sftp-out/Forums.php",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460899466/Gozigool-FileZilla.sftp-out/Gozigool-Industries.php",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/Gozigool-FileZilla.sftp-out",
+		"/C/Users/Nosa/Google Drive/Website/Gozigool-Filezilla",
+		"/C/Users/Nosa/Google Drive/Website/gozigool",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/gozigool",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460898863/gozigool/Gozigool-Industries.php",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Nosa/Google Drive/Website/img/Gozigool Slogan.png",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Color Highlighter/Default.sublime-keymap",
+		"/C/Users/Nosa/Google Drive/Website/gozigool.sublime-workspace",
+		"/C/Users/Nosa/Google Drive/Website/gozigool.sublime-project",
+		"/C/xampp/htdocs/js/JS.js",
+		"/C/xampp/htdocs/PHP.php",
+		"/C/xampp/htdocs/data.xml",
+		"/C/xampp/htdocs/data.json",
+		"/C/xampp/data.json",
+		"/C/xampp/XAMPP.sublime-project",
+		"/C/Users/Nosa/Google Drive/HackerRank/matrixRotation.java",
+		"/C/Users/Nosa/Google Drive/HackerRank/larryArrays.java",
+		"/C/Users/Nosa/Google Drive/HackerRank/Larry's Array Q HR.txt",
+		"/C/Users/Nosa/Google Drive/HackerRank/Form1.cs",
+		"/C/Users/Nosa/Google Drive/HackerRank/gridSearch.java",
+		"/C/Users/Nosa/Google Drive/HackerRank/lisaWorkbooks.java",
+		"/C/Users/Nosa/Google Drive/HackerRank/Hackerank.sublime-project",
+		"/C/robocode/robots/sample/Tracker.java",
+		"/C/robocode/robots/mu/Selphy.java",
+		"/C/robocode/robots/Ultimate_Gaming/Phoenix.java",
+		"/C/xampp/htdocs/css/CSS.css",
+		"/C/Users/Nosa/Google Drive/Computer Science/Demo 1/CarTest.java",
+		"/C/Users/Nosa/Google Drive/Computer Science/Demo 1/Car.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/fileManager.java",
+		"/C/xampp/htdocs/HTML.html",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/GlowFX/GlowFX.html",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/HTML/sample.html",
+		"/C/robocode/robots/GER/GER.java",
+		"/C/robocode/robots/sample/Walls.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Java.sublime-workspace",
+		"/C/robocode/robots/sample/Tracker.properties",
+		"/C/robocode/robocode.sublime-project",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/readme.md",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/Terminal.py",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/PS.bat",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/Context.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/Side Bar.sublime-menu",
+		"/C/robocode/compilers/CompilerTest.java",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Java/Robocode.sublime-build",
+		"/C/robocode/libs/config/robocode.properties",
+		"/C/robocode/libs/config/window.properties",
+		"/C/robocode/theme/editor/My theme.properties",
+		"/C/robocode/theme/editor/Robocode Black Theme.properties",
+		"/C/robocode/libs/config/compiler.properties",
+		"/C/robocode/config/compiler.properties",
+		"/C/robocode/robocode.bat",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL-python27.sublime-build",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Java/JavaC.sublime-build",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Racket/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Haskell/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/PHP/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Robocode/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Ruby/pry_repl.rb",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Haskell/Default.sublime-commands",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Robocode/Default.sublime-commands",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Python27/Default.sublime-commands",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Main.sublime-menu.template",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Python/Python27.sublime-build",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Python27/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Python/Python34.sublime-build",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Makefile/Make.sublime-build",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Haskell/Haskell.sublime-build",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Java/Ant.sublime-build",
+		"/C/robocode/compilers/ecj.jar",
+		"/C/Program Files/Sublime Text 2/Pristine Packages/Java.sublime-package",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Nosa/Google Drive/Website/Gozigool-Industries.js",
+		"/C/Users/Nosa/Google Drive/Website/Gozigool-Industries.css",
+		"/C/Users/Nosa/Google Drive/Website/Forums.html",
+		"/C/Users/Nosa/Google Drive/Website/Contact.html",
+		"/C/Users/Nosa/Google Drive/Website/Gozigool-Industries.html",
+		"/C/Users/Nosa/Google Drive/Website/mySword.css",
+		"/C/Users/Nosa/Documents/mySword.css",
+		"/C/Users/Nosa/Downloads/Programs/Sony Vegas Pro 13.0 build 290 FULL !!PATCH!!/ChingLiu.Install.Notes.nfo",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Python/TicTacToe.py",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Python34/Main.sublime-menu"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"());\n",
+			"public class Graph{\n public static void main(String[] args){\n\nScanner\n String[] original = io.load(\"C:\\\\graph.txt\");\n int size=original.length-1;\n int[][] array = new int[size][size];\n\n for(int i=1;i<=size;i++){ //load up the data into array\n for(int j=1;j<=size;j++){\n array[i-1][j-\n1]=Integer.parseInt(original[i].split(\"\\t\")[j]);\n }\n }\n int furthestdistance=0; //keep track of the longest path found\nso far\n String furthestroute=\"\";\n for(int i=0;i<size;i++){ //loop through all possible\nstarting positions\n\n int visited=0; //how many vertices have been visited so\nfar?\n Vertex[] vertices = new Vertex[size]; //initiate the\nvertex objects\n for(int j=0;j<size;j++){\n vertices[j]=new Vertex(original[0].split(\"\\t\")[j+1]);\n }\n vertices[i].visited=true; //we visit the starting\nposition\n visited++; //we've visited one vertex so far\n vertices[i].distance=0; //set this vertex as starting\npoint\n for(int j=0;j<size;j++){ //update distances from\nstarting point\n if(array[j][i]>0){ //only update those that can be\nreached from here\n vertices[j].distance=array[j][i];\n }\n }\n while(visited<size){ //while not all vertices visited\n…fill this in\n }\n for(int x=0;x<size;x++){ //check for a new record\ndistance\n if(vertices[x].distance>furthestdistance){ //go\nthrough all distances in the graph\n furthestdistance=vertices[x].distance;\nint visiting=x;\n String solution=\"\"; //build up the path taken to\nget this particular record beating distance\n while(visiting>=0){ //the starting position has\nroute of -1\n solution=vertices[visiting].label+\"\"+solution;\nvisiting=vertices[visiting].route; //step\nback along the route taken to generate this distance\n }\nsolution=vertices[i].label+\"\"+solution; //this is\nthe starting position\n furthestroute=solution; //keep track of this\nrecord path\n }\n }\n }\n System.out.println(furthestdistance); //print out the\nresults\n System.out.println(furthestroute);\n }\n}\nclass Vertex{ //everything you need for a vertex\n public boolean visited=false; //has it been visited?\n int distance=Integer.MAX_VALUE; //the shortest route from\nstarting position to this vertex\n int route=-1; //keep track of the last step taken to reach this\nvertex for the shortest path - what vertex did it come from?\n String label; //name of the vertex\n\n public Vertex (String labelin){ //give the vertex a name when\ninstantiated\n label=labelin;\n }\n} ",
+			" ",
+			"/",
+			"dete",
+			"document",
+			"+",
+			"i",
+			"validEntryChecker",
+			"\"O\"",
+			"\"X\"",
+			"X",
+			"▄",
+			"▀",
+			"█",
+			":",
+			"mode",
+			"ctrl+p",
+			"¡",
+			"ç",
+			"¯",
+			"­",
+			"­­",
+			"ù",
+			"…",
+			"ô",
+			"©",
+			"­",
+			" ¯E",
+			"¯E",
+			"þ",
+			"_E",
+			"¡",
+			"`",
+			"þ",
+			"`",
+			"ù",
+			"…",
+			".",
+			"~",
+			"©",
+			"$",
+			"­",
+			"¡",
+			"`",
+			"ù",
+			"…",
+			".",
+			"­",
+			"$",
+			"(",
+			"¯",
+			"¡",
+			"ù",
+			"¡",
+			"ù",
+			"…",
+			".",
+			"length",
+			"())\n",
+			" ",
+			".*;\n",
+			".nextInt",
+			"f",
+			"warehouse",
+			"420",
+			"answerSize",
+			"* @",
+			"param void",
+			"System.out.print",
+			"#",
+			"System",
+			"#",
+			"));\n",
+			"finder",
+			"*",
+			".",
+			"#",
+			"scan",
+			"renameFile",
+			"nullsTo",
+			"scan.nextLine",
+			"creatFile",
+			"answer",
+			"createFolder",
+			"];\n",
+			"\");\n",
+			"20",
+			"25",
+			"printed out",
+			");\n",
+			"infile",
+			"level4",
+			"TRIM",
+			"GETTEXT",
+			"intern",
+			"infile",
+			"inurl",
+			"url",
+			"inurl",
+			"openstream",
+			"s",
+			"getParameter",
+			"inuser",
+			"countdata",
+			"codebase",
+			"inuser",
+			"htm",
+			"€",
+			"Eur",
+			"€",
+			");\n",
+			"understandMinutes",
+			"in.n",
+			"#"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"|",
+			" ",
+			".",
+			"j",
+			"player2",
+			"player1",
+			"O",
+			"#",
+			"E",
+			"L",
+			"C",
+			"R",
+			"R ",
+			" ",
+			"ù",
+			"V",
+			"Y",
+			"B",
+			"S",
+			"E",
+			",",
+			" ",
+			"V",
+			"I",
+			"A",
+			"T",
+			"E",
+			",",
+			" ",
+			"V",
+			"I",
+			"S",
+			"L",
+			" ",
+			"A",
+			"E",
+			"a",
+			"e",
+			"V",
+			"I",
+			"hashCodeSolution.warehouse",
+			"size",
+			"  @",
+			"param",
+			"$",
+			"*",
+			"+",
+			".",
+			"#",
+			"*",
+			"sc",
+			"answers",
+			"10",
+			"20",
+			"displayed",
+			"Eur ",
+			"Eur",
+			"numberToWords",
+			"scan.n",
+			"Integer.parseInt"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Graph.java",
+					"settings":
+					{
+						"buffer_size": 3126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1219,
+								1219
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "true",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"syntax_mgr_loaded": true,
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 336.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Graph.txt",
+					"settings":
+					{
+						"buffer_size": 241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								241
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "true",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"syntax_mgr_loaded": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "backup.java",
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "public class backup{",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "true",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"syntax_mgr_loaded": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 254.0
+	},
+	"output.sftp":
+	{
+		"height": 231.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 520.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,1 @@
+cd C:\Users\Godstime\Google Drive\Coding_Folder\Java\CTC2014 && javac CTC2014.java && cls && java CTC2014 && pause

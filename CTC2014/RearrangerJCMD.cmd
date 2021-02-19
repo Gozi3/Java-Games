@@ -1,0 +1,1 @@
+cd D:\gosar\Google Drive\Coding_Folder\Java\CTC2014 && javac Rearranger.java && cls && java Rearranger && pause && cmd
