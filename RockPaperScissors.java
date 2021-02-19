@@ -1,3 +1,4 @@
+
 /**
 	* Project: Rock, Paper, Scissors Game
 	* @author Godstime Osarobo
@@ -66,56 +67,8 @@ public class RockPaperScissors {
 		} else {
 			computer = "scissors";
 		}
-
-		System.out.println("");
-		typedString(25, "User: ");
-		sleep(250);
-		System.out.println(user);
-		sleep(500);
-		typedString(25, "Computer: ");
-		sleep(250);
-		System.out.print(computer);
-		sleep(500);
-		System.out.println("\n");
-		if (user.equalsIgnoreCase(computer)) {
-			typedString(25, "The result is a tie!\n");
-		}
-
-		else if (user.equalsIgnoreCase("rock")) {
-			if (computer.equalsIgnoreCase("scissors")) {
-				sleep(500);
-				System.out.println("Rock wins");
-			} else {
-				sleep(500);
-				System.out.println("Paper wins");
-			}
-		} else if (user.equalsIgnoreCase("paper")) {
-			if (computer.equalsIgnoreCase("rock")) {
-				sleep(500);
-				System.out.println("Paper wins");
-			} else {
-				sleep(500);
-				System.out.println("Scissors wins");
-			}
-		} else if (user.equalsIgnoreCase("scissors")) {
-			if (computer.equalsIgnoreCase("rock")) {
-				sleep(500);
-				System.out.println("Rock wins");
-			} else {
-				sleep(500);
-				System.out.println("Scissors wins");
-			}
-		}
-		System.out.println("");
 	}
 
-	/*
-	 * gameInstructions: Prints the game instructions if the Player inputs help
-	 *
-	 * @param
-	 *
-	 * @return void
-	 */
 	public static void gameInstructions() {
 		String instruct = new String("To pick the place you want your piece to go type the number at the location.");
 		String instruct1 = new String("Unfortunately, your actions can not be undone.");

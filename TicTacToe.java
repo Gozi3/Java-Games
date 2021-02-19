@@ -1,3 +1,5 @@
+import java.util.Random;
+
 /**
 	* Project: Tic Tac Toe / X's and O's Game
 	* @author Godstime Osarobo
@@ -12,8 +14,6 @@
 		-----------
 		 O | O | X
 */
-import java.util.Random;
-import java.util.Scanner;
 
 public class TicTacToe {
 	/**
